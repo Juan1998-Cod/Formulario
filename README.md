@@ -6,7 +6,8 @@ Nombre,Apellido,Correo,Celular,contraseña.
 
 Esta desarrollado con los lenguajes de programación :  php,html,bootstrap.
 BD: mysql 
+
 vista para agregar nuevo usuario
-![https://github.com/Juan1998-Cod/Formulario/blob/main/user.png]
+![](https://github.com/Juan1998-Cod/Formulario/blob/main/user.png)
 
 
