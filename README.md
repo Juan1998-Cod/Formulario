@@ -2,7 +2,7 @@
 Este Formulario muestra un registro de personal que se le pide:
 Nombre,Apellido,Correo,Celular,contraseña.
 
-![](https://github.com/Juan1998-Cod/Formulario/blob/main/Captura%20de%20pantalla%20.png)
+![]()
 
 Esta desarrollado con los lenguajes de programación :  php,html,bootstrap.
 BD: mysql 
