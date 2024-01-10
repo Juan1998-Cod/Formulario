@@ -5,7 +5,7 @@ if(isset($_POST['submit'])){
     $apellido=$_POST['apellido'];
     $email=$_POST['email'];
     $mobile=$_POST['mobile'];
-    $password=$_POST['password'];
+    $password=md5($_POST['password']);
     $sql="insert into crud(name,apellido,email,mobile,password) values('$name','$apellido','$email','$mobile','$password')";
     $result = mysqli_query($con,$sql); 
     if($result){
